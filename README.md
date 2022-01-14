@@ -40,6 +40,8 @@ Python libraries used:
 
  - hvPlot: [https://hvplot.holoviz.org/user_guide/Introduction.html](https://hvplot.holoviz.org/user_guide/Introduction.html)  
      *hvPlot is a high-level plotting API for the PyData ecosystem built on HoloViews.*
+ - SQLAlchemy: [https://docs.sqlalchemy.org/en/13/dialects/sqlite.html?highlight=sqlite#connect-strings](https://docs.sqlalchemy.org/en/13/dialects/sqlite.html?highlight=sqlite#connect-strings)
+     *The SQLAlchemy SQL Toolkit and Object Relational Mapper is a comprehensive set of tools for working with databases and Python.*
 
 
 
@@ -49,6 +51,7 @@ prior to running these libraries, install them from the command line:
   - pandas: `conda install pandas` or `pip install pandas`  
   - pathlib: `pip install pathlib`
   - hvPlot: `conda install -c pyviz hvplot` or `pip install hvplot`
+  - SQLAlchemy: `pip install SQLAlchemy`
 
 ---
 
