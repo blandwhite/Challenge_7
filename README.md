@@ -63,7 +63,7 @@ prior to running these libraries, install them from the command line:
 
  2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Include the recording or screenshots in the README.md file for your GitHub repository.
  
-![]()
+![](Starter_Code/Images/Voila_file.gif)
  
 ---
  
